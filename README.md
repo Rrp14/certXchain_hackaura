@@ -81,6 +81,8 @@ npm install
   INFURA_URL=your_infura_url
   ```
 
+  add your firebase app values in frontend/src/firebase.js 
+
 4. Start the development servers:
 ```bash
 # Start backend server
